@@ -1,13 +1,11 @@
 {
-  "main.css": "static/css/main.cc1a97d9.css",
-  "main.css.map": "static/css/main.cc1a97d9.css.map",
-  "main.js": "static/js/main.3b8f1afc.js",
-  "main.js.map": "static/js/main.3b8f1afc.js.map",
+  "main.css": "static/css/main.bd6a6159.css",
+  "main.css.map": "static/css/main.bd6a6159.css.map",
+  "main.js": "static/js/main.f64dc9d3.js",
+  "main.js.map": "static/js/main.f64dc9d3.js.map",
   "static/media/Apercu.ttf": "static/media/Apercu.28672a43.ttf",
   "static/media/Eurostile.ttf": "static/media/Eurostile.1175a331.ttf",
   "static/media/EurostileBold.ttf": "static/media/EurostileBold.5c74ade5.ttf",
-  "static/media/OpenSans-Bold.ttf": "static/media/OpenSans-Bold.f5331cb6.ttf",
-  "static/media/OpenSans-Regular.ttf": "static/media/OpenSans-Regular.d7d5d458.ttf",
   "static/media/andrew.png": "static/media/andrew.a8f6cea1.png",
   "static/media/ecobee.png": "static/media/ecobee.db36800c.png",
   "static/media/intrigue.png": "static/media/intrigue.eae56d5e.png"
